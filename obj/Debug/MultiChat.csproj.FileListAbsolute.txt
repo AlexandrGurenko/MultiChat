@@ -1,0 +1,20 @@
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\bin\Debug\MultiChat.exe.config
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\bin\Debug\MultiChat.exe
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\bin\Debug\MultiChat.pdb
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\obj\Debug\MultiChat.csprojResolveAssemblyReference.cache
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\obj\Debug\MultiChat.Form1.resources
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\obj\Debug\MultiChat.Properties.Resources.resources
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\obj\Debug\MultiChat.csproj.GenerateResource.Cache
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\obj\Debug\MultiChat.csproj.CoreCompileInputs.cache
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\obj\Debug\MultiChat.exe
+C:\Users\Alcatraz\Desktop\MultiChat\MultiChat\obj\Debug\MultiChat.pdb
+E:\ItStep\Network Programming\MultiChat\MultiChat\bin\Debug\MultiChat.exe.config
+E:\ItStep\Network Programming\MultiChat\MultiChat\bin\Debug\MultiChat.exe
+E:\ItStep\Network Programming\MultiChat\MultiChat\bin\Debug\MultiChat.pdb
+E:\ItStep\Network Programming\MultiChat\MultiChat\obj\Debug\MultiChat.csprojResolveAssemblyReference.cache
+E:\ItStep\Network Programming\MultiChat\MultiChat\obj\Debug\MultiChat.Form1.resources
+E:\ItStep\Network Programming\MultiChat\MultiChat\obj\Debug\MultiChat.Properties.Resources.resources
+E:\ItStep\Network Programming\MultiChat\MultiChat\obj\Debug\MultiChat.csproj.GenerateResource.Cache
+E:\ItStep\Network Programming\MultiChat\MultiChat\obj\Debug\MultiChat.csproj.CoreCompileInputs.cache
+E:\ItStep\Network Programming\MultiChat\MultiChat\obj\Debug\MultiChat.exe
+E:\ItStep\Network Programming\MultiChat\MultiChat\obj\Debug\MultiChat.pdb
